@@ -36,8 +36,6 @@ We build things. We break things. We argue about how to build them. We change ou
 
 And then we do it again.
 
----
-
 ## What we're here to do
 
 Build software that is worth building.
@@ -64,8 +62,6 @@ We don't want to decide everything in advance.
 
 The interesting stuff happens when people are given room to explore.
 
----
-
 ## How we learn
 
 The project is the classroom.
@@ -86,8 +82,6 @@ That's the kind of learning we're interested in.
 
 **We emphasize less on "finish the tutorial".** </br>
 **and more on "let's figure this out."**
-
----
 
 ## How we work
 
@@ -112,8 +106,6 @@ You don't need to be an expert to contribute.
 You don't need to write code to matter here.
 
 A good design, a thoughtful review, a useful investigation, a well-written explanation, or a difficult question can move a project forward just as much as a feature can.
-
----
 
 ## The people
 
@@ -141,8 +133,6 @@ Start one.
 
 The person who joins today should have a path to becoming someone who can lead tomorrow.
 
----
-
 ## What we care about
 
 **Curiosity.** </br>
@@ -166,8 +156,6 @@ Try things that might be too difficult.
 **Humility.**</br>
 Good ideas can come from anywhere.
 
----
-
 ## Open source
 
 Whenever we can, we build in public.
@@ -183,8 +171,6 @@ If they can make it better, we'd like them to contribute.
 The repository shouldn't belong to the person who started it.
 
 **It should belong to the people who care enough to improve it.**
-
----
 
 ## If you're new
 
@@ -206,8 +192,6 @@ Your first contribution might be tiny.
 
 That's how most things begin.
 
----
-
 ## And if you have an idea...
 
 Bring it.
@@ -227,8 +211,6 @@ Start a discussion.
 Find someone who wants to work on it.
 
 See where it goes.
-
----
 
 ## One day
 
