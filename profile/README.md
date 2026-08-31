@@ -1,7 +1,7 @@
 # CodexClava
 
 <p align="center">
-  <img src="./assets/codexclava-logo.png" alt="CodexClava" width="180">
+  <img width="180" alt="CodexClava" src="./assets/codexclava-logo.png">
 </p>
 
 <p align="center">
